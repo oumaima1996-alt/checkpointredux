@@ -1,0 +1,10 @@
+.todo {
+  text-align: center;
+  color: darkgoldenrod;
+  background-color: black;
+}
+.addtodo {
+  text-align: center;
+  background-color: black;
+  color: darkgoldenrod;
+}
